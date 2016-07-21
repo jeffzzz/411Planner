@@ -1,0 +1,149 @@
+[14-Apr-2015 15:28:03 America/Chicago] PHP Warning:  include(db_configphp): failed to open stream: No such file or directory in /home/myplanner/public_html/db.php on line 2
+[14-Apr-2015 15:28:03 America/Chicago] PHP Warning:  include(): Failed opening 'db_configphp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/myplanner/public_html/db.php on line 2
+[14-Apr-2015 15:28:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/myplanner/public_html/db.php on line 8
+[14-Apr-2015 15:32:38 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/myplanner/public_html/login.php on line 4
+[14-Apr-2015 15:32:38 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/myplanner/public_html/login.php on line 4
+[14-Apr-2015 15:32:38 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/myplanner/public_html/login.php on line 6
+[14-Apr-2015 15:32:38 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/myplanner/public_html/login.php on line 6
+[14-Apr-2015 15:32:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/login.php:4) in /home/myplanner/public_html/login.php on line 12
+[14-Apr-2015 15:32:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/login.php:4) in /home/myplanner/public_html/login.php on line 15
+[14-Apr-2015 15:37:41 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/myplanner/public_html/login.php on line 4
+[14-Apr-2015 15:37:41 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/myplanner/public_html/login.php on line 6
+[14-Apr-2015 15:37:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/login.php:4) in /home/myplanner/public_html/login.php on line 12
+[14-Apr-2015 15:37:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/login.php:4) in /home/myplanner/public_html/login.php on line 15
+[14-Apr-2015 15:40:42 America/Chicago] PHP Fatal error:  Call to undefined method mysqli::mysqli_real_escape_string() in /home/myplanner/public_html/login.php on line 4
+[14-Apr-2015 17:42:57 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/myplanner/public_html/index.php on line 10
+[14-Apr-2015 17:42:58 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/myplanner/public_html/index.php on line 10
+[14-Apr-2015 17:58:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:10) in /home/myplanner/public_html/index.php on line 20
+[14-Apr-2015 17:58:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:10) in /home/myplanner/public_html/index.php on line 22
+[14-Apr-2015 17:58:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:10) in /home/myplanner/public_html/index.php on line 20
+[14-Apr-2015 17:58:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:10) in /home/myplanner/public_html/index.php on line 22
+[14-Apr-2015 17:59:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:10) in /home/myplanner/public_html/index.php on line 20
+[14-Apr-2015 17:59:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:10) in /home/myplanner/public_html/index.php on line 22
+[16-Apr-2015 01:36:25 America/Chicago] PHP Warning:  include(load_assignmentsphp): failed to open stream: No such file or directory in /home/myplanner/public_html/tasks.php on line 108
+[16-Apr-2015 01:36:25 America/Chicago] PHP Warning:  include(): Failed opening 'load_assignmentsphp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/myplanner/public_html/tasks.php on line 108
+[16-Apr-2015 01:36:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/load_assignments.php on line 22
+[16-Apr-2015 01:37:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 26
+[16-Apr-2015 01:37:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 26
+[16-Apr-2015 01:37:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 26
+[16-Apr-2015 01:37:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 25
+[16-Apr-2015 01:38:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:38:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:28 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:41 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:46 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:39:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:43:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:43:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:43:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:44:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:44:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:44:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 01:44:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 24
+[16-Apr-2015 02:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 22
+[16-Apr-2015 02:25:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 22
+[16-Apr-2015 02:25:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 22
+[16-Apr-2015 02:25:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 22
+[16-Apr-2015 02:25:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$tr' (T_VARIABLE) in /home/myplanner/public_html/load_assignments.php on line 22
+[16-Apr-2015 11:18:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'progress_cell' (T_STRING) in /home/myplanner/public_html/load_assignments.php on line 23
+[16-Apr-2015 11:18:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'progress_cell' (T_STRING) in /home/myplanner/public_html/load_assignments.php on line 23
+[16-Apr-2015 11:19:17 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/load_assignments.php on line 19
+[16-Apr-2015 11:19:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/load_assignments.php on line 19
+[16-Apr-2015 11:20:05 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/load_assignments.php on line 19
+[16-Apr-2015 11:20:16 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/load_assignments.php on line 19
+[16-Apr-2015 11:25:09 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:26:15 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:28:32 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:34:10 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:34:27 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:34:40 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:35:29 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:37:21 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:38:06 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:38:58 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:39:48 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:41:43 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:42:25 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:42:48 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:45:40 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:46:28 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:48:26 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:49:34 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 11:50:00 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/myplanner/public_html/update_hw.php on line 4
+[16-Apr-2015 13:54:36 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/myplanner/public_html/dashboard.php on line 118
+[16-Apr-2015 13:54:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/myplanner/public_html/dashboard.php on line 118
+[16-Apr-2015 13:54:50 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/myplanner/public_html/dashboard.php on line 119
+[16-Apr-2015 13:54:51 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/myplanner/public_html/dashboard.php on line 119
+[16-Apr-2015 13:55:09 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/myplanner/public_html/dashboard.php on line 119
+[16-Apr-2015 13:55:10 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/myplanner/public_html/dashboard.php on line 119
+[16-Apr-2015 13:56:37 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::mysqli_fetch_row() in /home/myplanner/public_html/dashboard.php on line 119
+[16-Apr-2015 13:56:39 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::mysqli_fetch_row() in /home/myplanner/public_html/dashboard.php on line 119
+[16-Apr-2015 14:04:19 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/myplanner/public_html/dashboard.php on line 149
+[16-Apr-2015 14:04:20 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/myplanner/public_html/dashboard.php on line 149
+[16-Apr-2015 15:12:49 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:12:51 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:14:22 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:15:20 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:16:49 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:17:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:17:39 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:19:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/charts_info.php on line 33
+[16-Apr-2015 15:34:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/charts_info.php on line 34
+[16-Apr-2015 15:35:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/charts_info.php on line 34
+[16-Apr-2015 15:35:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/charts_info.php on line 34
+[16-Apr-2015 15:36:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/charts_info.php on line 34
+[16-Apr-2015 15:38:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ']' in /home/myplanner/public_html/charts_info.php on line 34
+[16-Apr-2015 15:39:27 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::store_result() in /home/myplanner/public_html/charts_info.php on line 15
+[16-Apr-2015 15:41:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/charts_info.php on line 35
+[16-Apr-2015 15:42:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/charts_info.php on line 36
+[16-Apr-2015 15:45:15 America/Chicago] PHP Fatal error:  Call to a member function append() on a non-object in /home/myplanner/public_html/charts_info.php on line 38
+[16-Apr-2015 15:46:38 America/Chicago] PHP Fatal error:  Call to a member function append() on a non-object in /home/myplanner/public_html/charts_info.php on line 37
+[16-Apr-2015 15:49:39 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/myplanner/public_html/charts_info.php on line 35
+[16-Apr-2015 16:02:07 America/Chicago] PHP Fatal error:  Call to undefined function jsonSerialize() in /home/myplanner/public_html/charts_info.php on line 40
+[16-Apr-2015 17:00:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 57
+[16-Apr-2015 17:00:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 57
+[16-Apr-2015 17:00:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 57
+[16-Apr-2015 17:00:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 57
+[16-Apr-2015 17:02:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:02:15 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:04:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:04:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:05:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:05:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:06:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:06:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:06:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:06:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:07:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:07:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:08:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:08:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:09:24 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 59
+[16-Apr-2015 17:10:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 59
+[16-Apr-2015 17:11:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 59
+[16-Apr-2015 17:11:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 59
+[16-Apr-2015 17:13:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 59
+[16-Apr-2015 17:13:39 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 59
+[16-Apr-2015 17:15:02 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 60
+[16-Apr-2015 17:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 46
+[16-Apr-2015 17:16:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 46
+[16-Apr-2015 17:19:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/myplanner/public_html/charts_info.php on line 46
+[16-Apr-2015 17:23:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/myplanner/public_html/charts_info.php on line 58
+[16-Apr-2015 17:26:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/myplanner/public_html/charts_info.php on line 50
+[16-Apr-2015 17:36:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/myplanner/public_html/dashboard.php on line 74
+[16-Apr-2015 17:36:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/myplanner/public_html/dashboard.php on line 74
+[16-Apr-2015 18:55:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/myplanner/public_html/dashboard.php on line 248
+[16-Apr-2015 18:55:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/myplanner/public_html/dashboard.php on line 248
+[16-Apr-2015 18:55:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/myplanner/public_html/dashboard.php on line 248
+[16-Apr-2015 19:00:38 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/myplanner/public_html/dashboard.php on line 242
+[16-Apr-2015 19:02:53 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/myplanner/public_html/dashboard.php on line 247
+[16-Apr-2015 19:19:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql2' (T_VARIABLE) in /home/myplanner/public_html/dashboard.php on line 249
+[16-Apr-2015 19:19:16 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/myplanner/public_html/dashboard.php on line 251
+[16-Apr-2015 19:19:18 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/myplanner/public_html/dashboard.php on line 251
+[16-Apr-2015 19:20:17 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home/myplanner/public_html/dashboard.php on line 257
+[16-Apr-2015 19:20:32 America/Chicago] PHP Fatal error:  Call to undefined function alert() in /home/myplanner/public_html/dashboard.php on line 257
+[19-Apr-2015 19:56:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/myplanner/public_html/index.php:55) in /home/myplanner/public_html/index.php on line 56
